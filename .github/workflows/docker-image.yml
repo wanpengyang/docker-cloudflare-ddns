@@ -31,4 +31,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: ppasdf/languagetool-docker:latest
+          tags: ppasdf/cloudflare-ddns:latest
